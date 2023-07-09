@@ -16,6 +16,17 @@ $ npm install
 ```
 
 ## Create .development.env file
+Example
+```
+PORT=3000
+POSTGRES_HOST=localhost
+POSTGRES_USER=username
+POSTGRES_PASSWORD=password
+POSTGRES_DB=database_name
+POSTGRES_PORT=5432
+PRIVATE_KEY=secret_key
+```
+
 ## Running the app
 
 ```bash
